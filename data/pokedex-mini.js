@@ -1,8 +1,8 @@
 BattlePokemonSprites = {
 	"yveltal": {num:800, front:{ani:{w: 123, h: 83}, anif:{w: 123, h: 83}},back:{ani:{w: 114, h: 102}, anif:{w: 123, h: 83}}},
 	"xerneas": {num:801, front:{ani:{w: 95, h: 97}, anif:{w: 95, h: 97}},back:{ani:{w: 86, h: 97}, anif:{w: 95, h: 97}}},
-	"fletchling": {num:800, front:{ani:{w: 123, h: 83}, anif:{w: 123, h: 83}},back:{ani:{w: 114, h: 102}, anif:{w: 123, h: 83}}},
-	"talonflame": {num:801, front:{ani:{w: 95, h: 97}, anif:{w: 95, h: 97}},back:{ani:{w: 86, h: 97}, anif:{w: 95, h: 97}}},
+	"fletchling": {num:805, front:{ani:{w: 49, h: 49}, anif:{w: 49, h: 49}},back:{ani:{w: 45, h: 48}, anif:{w: 49, h: 49}}},
+	"talonflame": {num:806, front:{ani:{w: 95, h: 97}, anif:{w: 95, h: 97}},back:{ani:{w: 86, h: 97}, anif:{w: 95, h: 97}}},
 	"tomohawk": {num:-1, front:{ani:{w: 93, h: 59}, anif:{w: 93, h: 59}},back:{ani:{w: 92, h: 62}, anif:{w: 92, h: 62}}},
 	"necturna": {num:-2, front:{ani:{w: 77, h: 87}},back:{ani:{w: 71, h: 85}}},
 	"mollux": {num:-3, front:{ani:{w: 60, h: 67}},back:{ani:{w: 59, h: 64}}},
